@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFEFADC64",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 13.04042573,
+    "ref_longitude": 80.23053558,
+    "ref_altitude": 30,
+    "contact_email": "saikumar.elab@gmail.com",
+    "description": "Elab Gateway"
+  }
+}
